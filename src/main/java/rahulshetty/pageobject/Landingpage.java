@@ -47,6 +47,9 @@ public WebDriver driver;
     
     public void m1() {
     	System.out.println("hiii");
+    	System.out.println("hiii");
+    	System.out.println("hiii");
+    	System.out.println("hiii");
     }
    
 	
