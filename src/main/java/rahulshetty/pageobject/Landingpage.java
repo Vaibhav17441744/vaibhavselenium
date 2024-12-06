@@ -45,18 +45,7 @@ public WebDriver driver;
 		return errormessage.getText();
 	}
     
-    public void meth() {
-    	
-    	System.out.println("hi");
-    	System.out.println("back");
-
-    	System.out.println("hi");
-    	System.out.println("back");
-
-    	System.out.println("hi");
-    	System.out.println("back");
-    }
-
+   
 	
 
 }
