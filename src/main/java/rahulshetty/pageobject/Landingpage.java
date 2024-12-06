@@ -45,6 +45,9 @@ public WebDriver driver;
 		return errormessage.getText();
 	}
     
+    public void m1() {
+    	System.out.println("hiii");
+    }
    
 	
 

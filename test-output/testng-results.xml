@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-06T16:39:05 IST" name="Suite" finished-at="2024-12-06T16:39:21 IST" duration-ms="15997">
+  <suite started-at="2024-12-06T19:34:25 IST" name="Suite" finished-at="2024-12-06T19:34:42 IST" duration-ms="16383">
     <groups>
     </groups>
-    <test started-at="2024-12-06T16:39:05 IST" name="Test" finished-at="2024-12-06T16:39:21 IST" duration-ms="15997">
+    <test started-at="2024-12-06T19:34:25 IST" name="Test" finished-at="2024-12-06T19:34:42 IST" duration-ms="16383">
       <class name="rahulshetty.test.StandaloneTest2">
-        <test-method is-config="true" signature="launchapplicvation()[pri:0, instance:rahulshetty.test.StandaloneTest2@7331196b]" started-at="2024-12-06T16:39:05 IST" name="launchapplicvation" finished-at="2024-12-06T16:39:10 IST" duration-ms="4748" status="PASS">
+        <test-method is-config="true" signature="launchapplicvation()[pri:0, instance:rahulshetty.test.StandaloneTest2@7331196b]" started-at="2024-12-06T19:34:25 IST" name="launchapplicvation" finished-at="2024-12-06T19:34:30 IST" duration-ms="5109" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchapplicvation -->
-        <test-method signature="submitorder()[pri:0, instance:rahulshetty.test.StandaloneTest2@7331196b]" started-at="2024-12-06T16:39:10 IST" name="submitorder" finished-at="2024-12-06T16:39:21 IST" duration-ms="11099" status="PASS">
+        <test-method signature="submitorder()[pri:0, instance:rahulshetty.test.StandaloneTest2@7331196b]" started-at="2024-12-06T19:34:30 IST" name="submitorder" finished-at="2024-12-06T19:34:42 IST" duration-ms="11148" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- submitorder -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshetty.test.StandaloneTest2@7331196b]" started-at="2024-12-06T16:39:21 IST" name="tearDown" finished-at="2024-12-06T16:39:21 IST" duration-ms="104" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshetty.test.StandaloneTest2@7331196b]" started-at="2024-12-06T19:34:42 IST" name="tearDown" finished-at="2024-12-06T19:34:42 IST" duration-ms="80" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
