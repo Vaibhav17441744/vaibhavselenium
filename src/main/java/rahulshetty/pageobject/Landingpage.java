@@ -51,6 +51,25 @@ public WebDriver driver;
     	System.out.println("hiii");
     	System.out.println("hiii");
     }
+    
+    public void m2() {
+    	System.out.println("hiii");
+    	System.out.println("hiii");
+    	System.out.println("hiii");
+    	System.out.println("hiii");
+    }
+   
+    
+    public void m3() {
+    	System.out.println("hiii");
+    	System.out.println("hiii");
+    	System.out.println("hiii");
+    	System.out.println("hiii");
+    }
+   
+    public void m4() {
+    	System.out.println("hiii");
+    }
    
 	
 
