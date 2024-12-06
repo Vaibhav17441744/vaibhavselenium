@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: rahulshetty.test.StandaloneTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.427 s -- in rahulshetty.test.StandaloneTest
